@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#B283E3</color>  //Button in DARK THEME
+    <color name="purple_500">#7726C7</color>  //Button color
+    <color name="purple_700">#7726C7</color> //time, battery section color
+    <color name="teal_200">#7726C7</color>  //text field underline color
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkBackground">#333333</color>
+    <color name="lightText">#FFFFFF</color>
+</resources>
